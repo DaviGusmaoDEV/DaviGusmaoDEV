@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=190&section=header&text=DAVI%20GUSM%C3%83O&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" alt="Banner neon gamer" />
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=&center=true&vCenter=true&width=650&lines=Olá sou o Davi😀🤝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+web+%7C+APIs+%7C+Banco+de+dados;Sempre+aprendendo%2C+criando+e+evoluindo;)](https://git.io/typing-svg)
 
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
 
