@@ -1,20 +1,24 @@
 <div align="center">
 
-#  Olá, eu sou Davi Gusmão 👋
+# Olá, eu sou Davi Gusmão 👋
 
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+web+%7C+APIs+%7C+Banco+de+dados;Sempre+aprendendo%2C+criando+e+evoluindo)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DaviGusmaoDEV&color=38BDF8&style=flat-square&label=VISITAS+NO+PERFIL)
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviGusmaoDEV-181717?style=for-the-badge&logo=github)](https://github.com/DaviGusmaoDEV)
 
 </div>
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
 Sou desenvolvedor em formação e gosto de transformar problemas reais em soluções simples, funcionais e bem organizadas. Meu foco está no desenvolvimento de aplicações web completas, desde a interface até a API, o banco de dados e as integrações externas.
 
 Tenho interesse especial por produtos digitais, automação de processos, sistemas administrativos e experiências que sejam fáceis de usar. Estou construindo minha carreira com prática constante, projetos próprios e aprendizado contínuo.
 
-## Meu foco
+## 🎯 Meu foco
 
 ```text
 Construir        aplicações web completas e responsivas
@@ -23,9 +27,9 @@ Aprender         arquitetura, segurança e qualidade de software
 Evoluir          do protótipo até uma solução pronta para uso
 ```
 
-## Tecnologias e ferramentas
+## 🧰 Tecnologias e ferramentas
 
-### Desenvolvimento web
+### 🌐 Desenvolvimento web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -34,7 +38,7 @@ Evoluir          do protótipo até uma solução pronta para uso
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Back-end e APIs
+### ⚙️ Back-end e APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -42,7 +46,7 @@ Evoluir          do protótipo até uma solução pronta para uso
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Dados, integrações e ferramentas
+### 🗄️ Dados, integrações e ferramentas
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -53,7 +57,7 @@ Evoluir          do protótipo até uma solução pronta para uso
 
 Também tenho contato com autenticação JWT, Dapper, Swagger, integração com Google Sheets, Stripe, Mercado Pago e InfinitePay, além de testes automatizados e desenvolvimento de interfaces responsivas.
 
-## Como eu trabalho
+## 🚀 Como eu trabalho
 
 - Entendo o problema antes de escolher a tecnologia.
 - Divido funcionalidades grandes em entregas pequenas e testáveis.
@@ -61,17 +65,17 @@ Também tenho contato com autenticação JWT, Dapper, Swagger, integração com 
 - Uso Git para acompanhar a evolução e documentar decisões importantes.
 - Busco feedback rápido para melhorar a solução durante o desenvolvimento.
 
-## Atualmente construindo
+## 🔭 Atualmente construindo
 
 Estou desenvolvendo minha base profissional em três frentes:
 
 | Frente | Objetivo |
 | --- | --- |
-| **Full stack** | Criar aplicações completas, do front-end ao banco de dados |
-| **Engenharia de software** | Melhorar arquitetura, testes, segurança e manutenção |
-| **Produto digital** | Entender usuários e transformar necessidades em funcionalidades úteis |
+| 🟦 **Full stack** | Criar aplicações completas, do front-end ao banco de dados |
+| 🟪 **Engenharia de software** | Melhorar arquitetura, testes, segurança e manutenção |
+| 🟩 **Produto digital** | Entender usuários e transformar necessidades em funcionalidades úteis |
 
-## Em constante aprendizado
+## 📚 Em constante aprendizado
 
 - Arquitetura de software e boas práticas de APIs
 - Segurança, autenticação e autorização
@@ -80,7 +84,7 @@ Estou desenvolvendo minha base profissional em três frentes:
 - .NET, C# e desenvolvimento de aplicações multiplataforma
 - Modelagem de dados e integração entre serviços
 
-## Princípios que guiam meu código
+## 💡 Princípios que guiam meu código
 
 > Código bom não é apenas o que funciona: é o que outra pessoa consegue entender, testar e evoluir.
 
@@ -91,7 +95,7 @@ Estou desenvolvendo minha base profissional em três frentes:
 + Tecnologia a serviço do problema
 ```
 
-## GitHub em movimento
+## 📊 GitHub em movimento
 
 <div align="center">
 
@@ -104,7 +108,7 @@ Estou desenvolvendo minha base profissional em três frentes:
 
 </div>
 
-## Vamos conversar?
+## 🤝 Vamos conversar?
 
 Se você quiser trocar uma ideia sobre desenvolvimento web, tecnologia ou colaboração, entre em contato pelo [GitHub](https://github.com/DaviGusmaoDEV).
 
