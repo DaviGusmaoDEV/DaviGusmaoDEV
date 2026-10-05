@@ -47,17 +47,7 @@ Também tenho experiência com autenticação JWT, Dapper, Swagger, integração
 
 ## Projetos em destaque
 
-### 👟 [DropShoes](https://github.com/DaviGusmaoDEV/DropShoes)
 
-E-commerce completo de calçados, disponível em [dropshoes.social.br](https://dropshoes.social.br), com catálogo de produtos, carrinho, autenticação, área administrativa, pedidos, entrega, fluxo de caixa e pagamentos online.
-
-**Stack:** HTML, CSS, JavaScript, Node.js, Express, Supabase/PostgreSQL, Mercado Pago, InfinitePay e Google Sheets.
-
-### 🏥 [AgendaiFisio](https://github.com/DaviGusmaoDEV/AgendaiFisio)
-
-Sistema de gestão para clínica de fisioterapia, com autenticação, agendamento de consultas, prontuários e notas de evolução.
-
-**Stack:** ASP.NET Core Web API, .NET, C#, Dapper, SQLite, SQL Server, JWT, BCrypt e Swagger.
 
 ### 📅 [AgendaTarefas](https://github.com/DaviGusmaoDEV/AgendaTarefas)
 
