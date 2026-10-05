@@ -1,6 +1,6 @@
 <div align="center">
 
-# <color: lilas> Olá, eu sou Davi Gusmão 👋
+#  Olá, eu sou Davi Gusmão 👋
 
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
 
