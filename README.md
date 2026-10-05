@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=190&section=header&text=DAVI%20GUSM%C3%83O&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" alt="Banner neon gamer" />
+
 # Olá, eu sou Davi Gusmão 👋
 
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
@@ -9,6 +11,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DaviGusmaoDEV&color=38BDF8&style=flat-square&label=VISITAS+NO+PERFIL)
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviGusmaoDEV-181717?style=for-the-badge&logo=github)](https://github.com/DaviGusmaoDEV)
+
+</div>
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│  🎮 PLAYER: Davi Gusmão        CLASS: Full Stack         │
+│  ⚡ STATUS: aprendendo e criando  LVL: em evolução       │
+│  🛡️ SPECIAL MOVE: transformar ideias em software         │
+╰──────────────────────────────────────────────────────────╯
+```
 
 </div>
 
@@ -26,6 +40,29 @@ Resolver         problemas com código simples e sustentável
 Aprender         arquitetura, segurança e qualidade de software
 Evoluir          do protótipo até uma solução pronta para uso
 ```
+
+## 🕹️ Modo gamer: ON
+
+> Cada funcionalidade é uma fase. Cada bug é um mini-chefe. Cada aprendizado desbloqueia uma nova habilidade.
+
+| Skill tree | Nível atual |
+| --- | --- |
+| 🌐 **Web & Interfaces** | `████████░░` 80% |
+| ⚙️ **APIs & Back-end** | `███████░░░` 70% |
+| 🗄️ **Dados & Integrações** | `██████░░░░` 60% |
+| 🧪 **Testes & Qualidade** | `█████░░░░░` 50% |
+| 🧠 **Arquitetura** | `████░░░░░░` 40% |
+
+<div align="center">
+
+### ✨ QUEST LOG
+
+`[ ✓ ]` Criar soluções que resolvem problemas reais  
+`[ ✓ ]` Aprender novas tecnologias na prática  
+`[ → ]` Subir de nível em arquitetura e segurança  
+`[ → ]` Construir experiências cada vez mais completas
+
+</div>
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -108,12 +145,22 @@ Estou desenvolvendo minha base profissional em três frentes:
 
 </div>
 
+## 🐍 A cobrinha das contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DaviGusmaoDEV/DaviGusmaoDEV/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições do GitHub" />
+
+*Minha atividade no GitHub virando uma fase jogável.*
+
+</div>
+
 ## 🤝 Vamos conversar?
 
 Se você quiser trocar uma ideia sobre desenvolvimento web, tecnologia ou colaboração, entre em contato pelo [GitHub](https://github.com/DaviGusmaoDEV).
 
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil!
+🌌 Obrigado por visitar meu perfil! Continue explorando e que o próximo commit seja um power-up. ⭐
 
 </div>
