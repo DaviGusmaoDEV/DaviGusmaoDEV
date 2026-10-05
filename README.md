@@ -5,15 +5,23 @@
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviGusmaoDEV-181717?style=for-the-badge&logo=github)](https://github.com/DaviGusmaoDEV)
-[![Portfólio](https://img.shields.io/badge/Portfólio-dropshoes.social.br-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dropshoes.social.br)
 
 </div>
 
 ## Sobre mim
 
-Sou desenvolvedor em formação, apaixonado por transformar ideias em produtos funcionais. Trabalho principalmente com aplicações web completas, conectando interfaces, APIs, bancos de dados, autenticação, pagamentos e regras de negócio.
+Sou desenvolvedor em formação e gosto de transformar problemas reais em soluções simples, funcionais e bem organizadas. Meu foco está no desenvolvimento de aplicações web completas, desde a interface até a API, o banco de dados e as integrações externas.
 
-Atualmente, venho desenvolvendo projetos de e-commerce, sistemas de agendamento e ferramentas administrativas, sempre buscando evoluir em arquitetura, segurança, testes e experiência do usuário.
+Tenho interesse especial por produtos digitais, automação de processos, sistemas administrativos e experiências que sejam fáceis de usar. Estou construindo minha carreira com prática constante, projetos próprios e aprendizado contínuo.
+
+## Meu foco
+
+```text
+Construir        aplicações web completas e responsivas
+Resolver         problemas com código simples e sustentável
+Aprender         arquitetura, segurança e qualidade de software
+Evoluir          do protótipo até uma solução pronta para uso
+```
 
 ## Tecnologias e ferramentas
 
@@ -43,35 +51,62 @@ Atualmente, venho desenvolvendo projetos de e-commerce, sistemas de agendamento 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-Também tenho experiência com autenticação JWT, Dapper, Swagger, integração com Google Sheets, Stripe, Mercado Pago e InfinitePay, além de testes automatizados e desenvolvimento de interfaces responsivas.
+Também tenho contato com autenticação JWT, Dapper, Swagger, integração com Google Sheets, Stripe, Mercado Pago e InfinitePay, além de testes automatizados e desenvolvimento de interfaces responsivas.
 
-## Projetos em destaque
+## Como eu trabalho
 
+- Entendo o problema antes de escolher a tecnologia.
+- Divido funcionalidades grandes em entregas pequenas e testáveis.
+- Priorizo interfaces claras, APIs organizadas e código fácil de manter.
+- Uso Git para acompanhar a evolução e documentar decisões importantes.
+- Busco feedback rápido para melhorar a solução durante o desenvolvimento.
 
+## Atualmente construindo
 
-### 📅 [AgendaTarefas](https://github.com/DaviGusmaoDEV/AgendaTarefas)
+Estou desenvolvendo minha base profissional em três frentes:
 
-Aplicação para organização e agendamento de tarefas.
+| Frente | Objetivo |
+| --- | --- |
+| **Full stack** | Criar aplicações completas, do front-end ao banco de dados |
+| **Engenharia de software** | Melhorar arquitetura, testes, segurança e manutenção |
+| **Produto digital** | Entender usuários e transformar necessidades em funcionalidades úteis |
 
-**Stack:** React, TypeScript e Vite.
-
-### 🍰 [Delícias da Lucy](https://github.com/DaviGusmaoDEV/Delicias-da-Lucy)
-
-Sistema web para catálogo, pedidos, administração de produtos, checkout, pagamentos e acompanhamento de entregas.
-
-**Stack:** Node.js, Express, JavaScript, Supabase/PostgreSQL, Mercado Pago, InfinitePay e testes automatizados.
-
-## O que estou estudando
+## Em constante aprendizado
 
 - Arquitetura de software e boas práticas de APIs
 - Segurança, autenticação e autorização
 - Testes automatizados e qualidade de código
 - React, TypeScript e desenvolvimento de produtos web
 - .NET, C# e desenvolvimento de aplicações multiplataforma
+- Modelagem de dados e integração entre serviços
+
+## Princípios que guiam meu código
+
+> Código bom não é apenas o que funciona: é o que outra pessoa consegue entender, testar e evoluir.
+
+```diff
++ Clareza antes de complexidade
++ Pequenas melhorias todos os dias
++ Aprendizado baseado em prática
++ Tecnologia a serviço do problema
+```
+
+## GitHub em movimento
+
+<div align="center">
+
+<a href="https://github.com/DaviGusmaoDEV">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviGusmaoDEV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/DaviGusmaoDEV">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGusmaoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</a>
+
+</div>
 
 ## Vamos conversar?
 
-Se você quiser trocar uma ideia sobre desenvolvimento web, projetos, tecnologia ou colaboração, entre em contato pelo GitHub.
+Se você quiser trocar uma ideia sobre desenvolvimento web, tecnologia ou colaboração, entre em contato pelo [GitHub](https://github.com/DaviGusmaoDEV).
 
 <div align="center">
 
