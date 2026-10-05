@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Full Stack | Sistemas web, APIs e soluções digitais
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=341539&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+web+%7C+APIs+%7C+Banco+de+dados;Sempre+aprendendo%2C+criando+e+evoluindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8A00C4&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+web+%7C+APIs+%7C+Banco+de+dados;Sempre+aprendendo%2C+criando+e+evoluindo)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DaviGusmaoDEV&color=38BDF8&style=flat-square&label=VISITAS+NO+PERFIL)
 
